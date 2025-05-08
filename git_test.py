@@ -2,4 +2,4 @@
 # Author:       Yanette Jaan
 # Description:  Code for git testing
 
-print("Git seems fun")
+print("Changed output")
