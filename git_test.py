@@ -7,4 +7,3 @@ print("Changed output")
 =======
 print("Changed output")
 >>>>>>> development
-fdalf
