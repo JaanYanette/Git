@@ -1,0 +1,9 @@
+# Ignores the following files
+*.png
+*.txt
+*.doc
+*.docx
+*.jpg
+
+# Ignores the following folders
+/screenshots
